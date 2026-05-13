@@ -1,4 +1,4 @@
-REGISTRY := ghcr.io/gregory.verghese
+REGISTRY := ghcr.io/gregoryverghese
 VERSION  := 1.0.0
 
 build-%:
